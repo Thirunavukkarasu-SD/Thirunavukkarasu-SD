@@ -1,3 +1,12 @@
+
+<a href="https://github.com/Thirunavukkarasu-SD/Thirunavukkarasu-SD">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dark.svg">
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/light.svg">
+  </picture>
+  
+</a>
+
 # 💫 About Me:
 
 <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx/your-image.gif" />
