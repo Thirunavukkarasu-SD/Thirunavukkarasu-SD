@@ -1,7 +1,7 @@
 
 <a href="https://github.com/Thirunavukkarasu-SD/Thirunavukkarasu-SD">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Thirunavukkarasu-SD/Thirunavukkarasu-SD/blob/main/Dark.svg">
     <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/light.svg">
   </picture>
   
